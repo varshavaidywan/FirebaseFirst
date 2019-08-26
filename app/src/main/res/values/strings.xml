@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseFirst</string>
+    <string name="write_your_text_to_be_saved_here">Write your text to be saved here</string>
+    <string name="save">SAVE</string>
+</resources>
